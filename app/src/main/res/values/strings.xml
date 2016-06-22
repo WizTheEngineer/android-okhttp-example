@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OkHttpExample</string>
+    <string name="get_data">Get Data!</string>
+    <string name="getting_data">Getting data...</string>
+    <string name="error_message">There was an error!</string>
+    <string name="handler_example">Handler Example</string>
+    <string name="async_task_example">AsyncTask Example</string>
+    <string name="loader_example">Loader Example</string>
+    <string name="no_data_loaded">No data loaded.</string>
+</resources>
